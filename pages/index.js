@@ -14,6 +14,7 @@ const flex110 = styled.div`
 export default function Home() {
   return (
     <div>
+      <title>TwitchNotify - Track Twitch Catagories by views and set conditions!</title>
       <NavBar />
 
       <div id="flex-container">

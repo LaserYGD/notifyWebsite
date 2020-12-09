@@ -2,7 +2,7 @@ function NavBar() {
   return (
     <nav className="flex flex-col px-6 py-4 w-full text-center font-sans bg-white shadow sm:flex-row sm:items-baseline sm:justify-between sm:text-left">
       <div className="mb-2 sm:mb-0">
-        <a href="/home" className="text-grey-darkest hover:text-blue-dark no-underline text-2xl">
+        <a href="/" className="text-grey-darkest hover:text-blue-dark no-underline text-2xl">
           TwitchNotify
         </a>
       </div>
