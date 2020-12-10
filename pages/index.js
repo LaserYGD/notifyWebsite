@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>TwitchNotify - Track Twitch Catagories by views and set conditions</title>
+        <title>TwitchNotify - Track Twitch Catagories by views and set conditions!</title>
         <meta
           name="description"
           content="Create custom conditions for twitch games/Catagories based on views and get notified when they're true!"
