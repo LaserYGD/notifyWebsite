@@ -1,17 +1,9 @@
 import Head from "next/head";
 import NavBar from "../components/navBar";
 import Image from "next/image";
-import styled from "styled-components";
 import { render } from "react-dom";
 
-const flexDiv = styled.div`
-  display: flex;
-`;
-
-const flex110 = styled.div`
-  flex: 1 5 %0;
-`;
-
+//-
 export default function Home() {
   return (
     <>
