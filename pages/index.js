@@ -3,6 +3,14 @@ import NavBar from "../components/navBar";
 import Image from "next/image";
 import { render } from "react-dom";
 
+let a = 2;
+
+if (a == 2) {
+  a = 5;
+}
+
+const CCCC = 5213123;
+
 //-
 export default function Home() {
   return (
