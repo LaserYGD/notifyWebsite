@@ -9,11 +9,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>TwitchNotify - Track Twitch Catagories by views and set conditions</title>
-        <meta
-          name="description"
-          content="Create custom conditions for twitch games/Catagories based on views and get notified when they're true!"
-        ></meta>
+        <title>TwitchNotify - Track twitch catagories</title>
+        <meta name="description" content="Create conditions and get notified when they become true."></meta>
 
         <meta name="keywords" content="Twitch, Utility, Conditions, Notifications"></meta>
       </Head>
@@ -43,7 +40,8 @@ export default function Home() {
             ></Image>
             <p className="light view-image">
               Custom view conditions<br></br> Cooldown system to prevent notification spam <br></br> Almost all catagories supported <br></br>Our
-              server tracks and updates all catagories continuously<br></br>Your games & settings are locally saved
+              server tracks and updates all catagories continuously<br></br>Your games & settings are locally saved, <br></br>Multiple platforms
+              supported
             </p>
           </div>
         </div>

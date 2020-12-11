@@ -7,7 +7,7 @@ export default function download() {
       <NavBar />
       <p className="light">Mac support is coming soon!</p>
       <p className="light">this will download the latest version by default</p>
-      <p className="light">Click on the image to download</p>
+      <p className="light">Click to download</p>
       <div id="downloadWindows">
         <h1 class="downloadText">Download for windows</h1>
         <Image src="/windowsLogo.png" alt="picture of the program's condition settings window" id="conditionImage" width={180} height={150}></Image>
