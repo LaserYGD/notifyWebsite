@@ -15,7 +15,7 @@ export default function Home() {
           content="Create custom conditions for twitch Games/Catagories based on views and get notified when they're true!"
         ></meta>
 
-        <meta name="keywords" content="Twitch, Utility, Conditions, Notifications"></meta>
+        <meta name="keywords" content="Twitch, Utility, Conditions, Notifications, TwitchTV"></meta>
       </Head>
 
       <div>
@@ -29,7 +29,7 @@ export default function Home() {
               that condition is true. <br></br>
               <br></br> The impossible has become possible, the greatest random application that no sane person would spend their time on making is
               finally here. <br></br> <br></br> We call it, TwitchNotify. <br></br>
-              <span id="why">Because it notifies you, get it? I admit, took me two seconds and one braincell to think of this name.</span>
+              <span id="why">Because it notifies you, get it? I admit, took me two seconds and one braincell to think of this name</span>
             </p>
           </div>
 
