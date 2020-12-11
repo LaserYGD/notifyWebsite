@@ -43,7 +43,8 @@ export default function Home() {
             ></Image>
             <p className="light view-image">
               Custom view conditions<br></br> Cooldown system to prevent notification spam <br></br> Almost all catagories supported <br></br>Our
-              server tracks and updates all catagories continuously<br></br>Your games & settings are locally saved, Multiple platforms supported
+              server tracks and updates all catagories continuously<br></br>Your games & settings are locally saved, <br></br>Multiple platforms
+              supported
             </p>
           </div>
         </div>
