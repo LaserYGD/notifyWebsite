@@ -9,7 +9,7 @@ export default function download() {
       <p className="light">
         TwitchNotify is a 'hmm' hobby project. Thus isn't signed (requires $$). Smartscreen or Antivirus will give you a false positive.
       </p>
-      <p className="light">Click on the image to download</p>
+      <p className="light">Click on the image to download the latest version</p>
       <p>
         TwitchNotify is open source: <a href="https://github.com/LaserYGD/twitchNotify">Click Here</a>
       </p>
